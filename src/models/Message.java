@@ -69,7 +69,7 @@ public class Message {
         this.created_at = created_at;
     }
 
-    public Timestamp getUpdate_at(){
+    public Timestamp getUpdated_at(){
         return updated_at;
     }
 
